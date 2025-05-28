@@ -5,7 +5,7 @@ def change_message():
 
 app = App(title="Hello world")
 
-message = Text(app, text="Welcome to the Hello world app!")
+message = Text(app, text="Welcome to the Hello world app!!!!!!")
 
 button = PushButton(app, text="Press me", command=change_message)
 
